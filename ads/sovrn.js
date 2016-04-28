@@ -16,7 +16,6 @@
  */
 
 import {writeScript} from '../src/3p';
-
 /**
  * @param {!Window} global
  * @param {!Object} data
