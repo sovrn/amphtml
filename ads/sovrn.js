@@ -15,7 +15,7 @@
  //<script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=300427&u=pramos&width=300&height=250"></script>
  */
 
-import {writeScript} from '../src/3p';
+import {writeScript} from '../src/3p'; 
 /**
  * @param {!Window} global
  * @param {!Object} data
